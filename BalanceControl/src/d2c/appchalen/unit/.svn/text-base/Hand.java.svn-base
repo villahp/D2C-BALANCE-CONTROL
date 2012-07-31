@@ -1,0 +1,17 @@
+package d2c.appchalen.unit;
+
+import android.content.Context;
+import android.graphics.Bitmap;
+import d2c.appchalen.image.ImageData;
+import d2c.appchalen.sprite.MySprite;
+
+public class Hand extends Unit{
+	public Bitmap mHand;
+	public MySprite mSpriteHand;
+	public Hand(Context context) {
+		super(context);
+		mHand = ImageData.Hand;
+		mSpriteHand = new MySprite(10, 290);
+	}
+
+}

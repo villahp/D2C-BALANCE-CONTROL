@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Balance Control</string>
+    <string name="menu_settings">Settings</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_setting">Settings</string>
+    <string name="btn_credit">Credit</string>
+    <string name="txt_Sensor">Level Sensor</string>
+    <string name="txt_Hand">Hand</string>
+    <string name="txt_Left">Left</string>
+    <string name="txt_Right">Right</string>
+    <string name="txt_Volume">Volume</string>
+    <string name="title_activity_splash_screen">Balance Control</string>
+
+</resources>
